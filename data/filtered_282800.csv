@@ -1,0 +1,5 @@
+review_id,app_id,text,voted_up,playtime_minutes,timestamp,sentiment_score,label
+183528929,282800,"100% orange juice: It’s like Mario Party, except you can't throw your controller if you rage out.
+",True,9984,1735004468,0.1531,positive
+179095723,282800,I get to rage at how trash I am at dice!,True,2605,1731710465,-0.5983,negative
+164814279,282800,"This game is really fun with friends but it's also enjoyable online with randoms as they tend to be really nice. It can be rage inducing and frustrating but as long as you can handle that, it's great. I have had so many laughs with friends while playing this. Sometimes you absolutely destroy someone and they are begging for their lives JUST for them to turn it around on you and kill you last second, take all your stars and win the game. It truly never really is over in this game and that's what is great about it!",True,6331,1715070403,0.9753,positive
